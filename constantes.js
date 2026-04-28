@@ -8,7 +8,7 @@ const nombre = "Rocio";
 // Imprimimos su valor en consola
 console.log(nombre);
 
-// ❌ Esto daría error porque una constante no se puede reasignar
+// Esto daría error porque una constante no se puede reasignar
 // nombre = "Maria";
 
 
